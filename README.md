@@ -20,5 +20,24 @@ I made this code to make Ureter dataset
 
 
 ## **Results**
-
+before interpolation
 ![before_inter](https://user-images.githubusercontent.com/56622945/134477729-e0c0a52c-74b9-4d9c-97e4-4a1dfaa95b46.png)
+
+after interpolation
+![after_inter](https://user-images.githubusercontent.com/56622945/134477801-492fcf1b-2b2f-4cdf-ae88-e7cc2088cd35.png)
+
+
+
+
+before interpolation (CT view)
+![before_inter_CT](https://user-images.githubusercontent.com/56622945/134477836-54a2e719-1ad3-4ebd-a376-c299acc15397.png)
+
+after interpolation (CT view)
+![after_inter_CT](https://user-images.githubusercontent.com/56622945/134477861-c9531fea-bca0-41a3-8604-d909d553dd89.png)
+
+
+
+
+
+
+
