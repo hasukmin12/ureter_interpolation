@@ -11,3 +11,7 @@ I made this code to make Ureter dataset
 - Dataset was provided by Hanyang University Seoul Hospital, and in the CT image, only one slice out of five was provided
 - I made the code to find the ureter for the remaining four slices.
 
+## **Code description**
+- blob_detecter.py : Find two blobs in the image and output the center coordinates of each blob.
+- interpolate_two_image.py : by using blob_detecter, create new image by interpolate two image. Using 't' parameter ranging from 0 to 1 corresponding to first and last frame.
+- 
