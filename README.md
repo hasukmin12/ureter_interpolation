@@ -1,5 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/WonJunPark)](https://hits.seeyoufarm.com) 
-![Hits](https://img.shields.io/github/followers/WonJunPark?label=Follow)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasukmin12)](https://hits.seeyoufarm.com) 
+![Hits](https://img.shields.io/github/followers/hasukmin12?label=Follow)
 
 ## **Ureter Interpolation** 
 this code is to create new image by interpolate two image.
