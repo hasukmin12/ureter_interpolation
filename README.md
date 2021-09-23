@@ -31,13 +31,15 @@ after interpolation
 
 
 
+## **Results (CT view)**
+before interpolation 
 
-before interpolation (CT view)
 
 
 ![before_inter_CT](https://user-images.githubusercontent.com/56622945/134477836-54a2e719-1ad3-4ebd-a376-c299acc15397.png)
 
-after interpolation (CT view)
+after interpolation 
+
 
 
 ![after_inter_CT](https://user-images.githubusercontent.com/56622945/134477861-c9531fea-bca0-41a3-8604-d909d553dd89.png)
