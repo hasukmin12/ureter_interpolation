@@ -54,3 +54,28 @@ after interpolation
 
 ## **Results (Video view)**
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/56622945/134479004-14dc013e-1175-4fc7-958e-7c9cc99e1875.gif)
+
+
+
+
+
+
+
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hasukmin12)](https://hits.seeyoufarm.com) 
+![Hits](https://img.shields.io/github/followers/hasukmin12?label=Follow)
+
+## **Medical Converter** 
+this code was created to convert the types of various medical images.
+
+
+## **Code description**
+- jpg_2_nii.py : Image slices composed of jpg are converted into nifty formats.
+- npy_2_nifti.py : convert numpy array to nifti formats
+- 
+- czi_2_numpy.py : convert czi image to numpy array
+
+
+- 'reader' folder : read pkl,json formats
