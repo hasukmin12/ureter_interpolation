@@ -46,7 +46,10 @@ after interpolation
 
 
 
+## **Results (Voxel view)**
+
+![voxel_ureter](https://user-images.githubusercontent.com/56622945/134478487-60b99f60-1c57-45b6-85a2-3b5174ba6a3a.png)
 
 
 
-
+## **Results (V view)**
