@@ -15,4 +15,5 @@ I made this code to make Ureter dataset
 ## **Code description**
 - blob_detecter.py : Find two blobs in the image and output the center coordinates of each blob.
 - interpolate_two_image.py : by using blob_detecter, create new image by interpolate two image. Using 't' parameter ranging from 0 to 1 corresponding to first and last frame.
-- 
+- test.py : you can test upper code by this code
+- ureter_interpolation : find masked ureter slice by find_max_1, count blank slice and create new image by interpolate two image on both ends.
